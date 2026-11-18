@@ -1,0 +1,2839 @@
+[
+  {
+    "actor_key": "G0004",
+    "name": "APT15",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0007",
+    "name": "APT28",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 4,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0007",
+    "name": "BlueDelta",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "G0007",
+    "name": "Fancy Bear",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 3,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0007",
+    "name": "Forest Blizzard",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 4,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0007",
+    "name": "GRU 85th GTsSS, military unit 26165",
+    "resolved_via": "stated in reporting",
+    "basis": "reviewed",
+    "stated_by": [
+      "cisa:aa25-141a"
+    ],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  },
+  {
+    "actor_key": "G0007",
+    "name": "GRU Unit 26165",
+    "resolved_via": "stated in reporting",
+    "basis": "reviewed",
+    "stated_by": [
+      "cisa:aa25-141a"
+    ],
+    "report_count": 2,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  },
+  {
+    "actor_key": "G0007",
+    "name": "Sofacy",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 2,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0007",
+    "name": "Swallowtail",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0007",
+    "name": "TA422",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 2,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "G0010",
+    "name": "Secret Blizzard",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0010",
+    "name": "SUMMIT",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "G0010",
+    "name": "Turla",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 2,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0010",
+    "name": "UAC-0194",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "G0010",
+    "name": "Venomous Bear",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0016",
+    "name": "APT29",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 4,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0016",
+    "name": "Cozy Bear",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 2,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0016",
+    "name": "ICE RELIC",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 2,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "G0016",
+    "name": "Midnight Blizzard",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 3,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0016",
+    "name": "The Dukes",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0020",
+    "name": "Equation Group",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "G0027",
+    "name": "APT27",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0032",
+    "name": "Diamond Sleet",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0032",
+    "name": "Lazarus Group",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0034",
+    "name": "APT44",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0034",
+    "name": "GRU military unit 74455",
+    "resolved_via": "stated in reporting",
+    "basis": "reviewed",
+    "stated_by": [
+      "cisa:aa25-343a"
+    ],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  },
+  {
+    "actor_key": "G0034",
+    "name": "Sandworm",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "G0034",
+    "name": "Sandworm Team",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0035",
+    "name": "Berserk Bear",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0035",
+    "name": "Crouching Yeti",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0035",
+    "name": "Dragonfly",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0035",
+    "name": "Energetic Bear",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0035",
+    "name": "Ghost Blizzard",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0044",
+    "name": "Blackfly",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0046",
+    "name": "FIN7",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0049",
+    "name": "OilRig",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0059",
+    "name": "Charming Kitten",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0059",
+    "name": "Mint Sandstorm",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0059",
+    "name": "TA453",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0067",
+    "name": "APT37",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0067",
+    "name": "InkySquid",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0069",
+    "name": "MuddyWater",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0069",
+    "name": "Static Kitten",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0073",
+    "name": "Codoso",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0082",
+    "name": "Bluenoroff",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0082",
+    "name": "Sapphire Sleet",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 4,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0082",
+    "name": "Stardust Chollima",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0094",
+    "name": "Emerald Sleet",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0096",
+    "name": "APT41",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0117",
+    "name": "Fox Kitten",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0117",
+    "name": "Lemon Sandstorm",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0117",
+    "name": "Pioneer Kitten",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0117",
+    "name": "RUBIDIUM",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0117",
+    "name": "UNC757",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 2,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0119",
+    "name": "Evil Corp",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0120",
+    "name": "Evilnum",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0125",
+    "name": "MURKY PANDA",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "G0128",
+    "name": "APT31",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 3,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0128",
+    "name": "JungleBamboo",
+    "resolved_via": "stated in reporting",
+    "basis": "corroborated",
+    "stated_by": [
+      "proofpoint:148109",
+      "volexity:5402"
+    ],
+    "report_count": 3,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  },
+  {
+    "actor_key": "G0128",
+    "name": "TA412",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 2,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "G0128",
+    "name": "TIDE CASTLE",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "G0128",
+    "name": "Violet Typhoon",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 2,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0129",
+    "name": "EARTH PRETA",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0129",
+    "name": "HIVE0154",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0129",
+    "name": "HoneyMyte",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "G0129",
+    "name": "Mustang Panda",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0129",
+    "name": "RedDelta",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0129",
+    "name": "Red Lich",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0129",
+    "name": "STATELY TAURUS",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0129",
+    "name": "TA416",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0129",
+    "name": "TEMP.Hex",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 2,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0129",
+    "name": "TWILL TYPHOON",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 2,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0129",
+    "name": "UNC6384",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 2,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G0129",
+    "name": "Vertigo Panda",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "G0138",
+    "name": "Onyx Sleet",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G1002",
+    "name": "BITTER",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G1004",
+    "name": "LAPSUS$",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G1015",
+    "name": "Muddled Libra",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "G1015",
+    "name": "Scattered Spider",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 4,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G1017",
+    "name": "Volt Typhoon",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 3,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G1020",
+    "name": "TA569",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G1024",
+    "name": "Akira",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 2,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G1024",
+    "name": "Howling Scorpius",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G1027",
+    "name": "Bauxite",
+    "resolved_via": "stated in reporting",
+    "basis": "reviewed",
+    "stated_by": [
+      "cisa:aa26-097a"
+    ],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  },
+  {
+    "actor_key": "G1027",
+    "name": "CyberAv3ngers",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 4,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G1027",
+    "name": "CyberAveng3rs",
+    "resolved_via": "stated in reporting",
+    "basis": "reviewed",
+    "stated_by": [
+      "sekoia:the-cold-chain-on-fire-unpatched-danfoss-controllers-exploited"
+    ],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  },
+  {
+    "actor_key": "G1027",
+    "name": "Cyber Isnaad Front",
+    "resolved_via": "stated in reporting",
+    "basis": "reviewed",
+    "stated_by": [
+      "sekoia:the-cold-chain-on-fire-unpatched-danfoss-controllers-exploited"
+    ],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  },
+  {
+    "actor_key": "G1027",
+    "name": "Hydro Kitten",
+    "resolved_via": "stated in reporting",
+    "basis": "reviewed",
+    "stated_by": [
+      "cisa:aa26-097a"
+    ],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  },
+  {
+    "actor_key": "G1027",
+    "name": "Mr. Soul",
+    "resolved_via": "stated in reporting",
+    "basis": "reviewed",
+    "stated_by": [
+      "sekoia:the-cold-chain-on-fire-unpatched-danfoss-controllers-exploited",
+      "cisa:aa26-097a"
+    ],
+    "report_count": 2,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  },
+  {
+    "actor_key": "G1027",
+    "name": "Shahid Kaveh Group",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "G1027",
+    "name": "Soldiers of Solomon",
+    "resolved_via": "stated in reporting",
+    "basis": "reviewed",
+    "stated_by": [
+      "sekoia:the-cold-chain-on-fire-unpatched-danfoss-controllers-exploited",
+      "cisa:aa26-097a"
+    ],
+    "report_count": 2,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  },
+  {
+    "actor_key": "G1027",
+    "name": "Storm-0784",
+    "resolved_via": "stated in reporting",
+    "basis": "reviewed",
+    "stated_by": [
+      "cisa:aa26-097a"
+    ],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  },
+  {
+    "actor_key": "G1027",
+    "name": "UNC5691",
+    "resolved_via": "stated in reporting",
+    "basis": "reviewed",
+    "stated_by": [
+      "cisa:aa26-097a"
+    ],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  },
+  {
+    "actor_key": "G1033",
+    "name": "COLDRIVER",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G1033",
+    "name": "Star Blizzard",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G1033",
+    "name": "UNC4057",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "G1035",
+    "name": "TA473",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 2,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G1035",
+    "name": "Winter Vivern",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 2,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G1043",
+    "name": "BlackByte",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G1044",
+    "name": "APT42",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 2,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G1045",
+    "name": "GhostEmperor",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "G1045",
+    "name": "OPERATOR PANDA",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "G1045",
+    "name": "RedMike",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "G1045",
+    "name": "Salt Typhoon",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 2,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G1049",
+    "name": "UNC4736",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G1052",
+    "name": "Contagious Interview",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G1052",
+    "name": "Famous Chollima",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "G1055",
+    "name": "BANISHED KITTEN",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G1055",
+    "name": "Handala",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "G1055",
+    "name": "Handala Hack",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G1055",
+    "name": "Homeland Justice",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G1055",
+    "name": "Red Sandstorm",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G1055",
+    "name": "Storm-0842",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "G1055",
+    "name": "VOID MANTICORE",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G1056",
+    "name": "DeadCatx3",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G1056",
+    "name": "PCPCat",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G1056",
+    "name": "ShellForce",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G1056",
+    "name": "TeamPCP",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 11,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G1056",
+    "name": "UNC6780",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 3,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G1057",
+    "name": "Bling Libra",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G1057",
+    "name": "ShinyHunters",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 6,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G1057",
+    "name": "UNC6240",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 2,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G1058",
+    "name": "TGR-CRI-1173",
+    "resolved_via": "stated in reporting",
+    "basis": "reviewed",
+    "stated_by": [
+      "unit42:189023"
+    ],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  },
+  {
+    "actor_key": "G1058",
+    "name": "The Gentlemen",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 2,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "G1059",
+    "name": "Screening Serpens",
+    "resolved_via": "stated in reporting",
+    "basis": "reviewed",
+    "stated_by": [
+      "unit42:187630"
+    ],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  },
+  {
+    "actor_key": "G1059",
+    "name": "UNC1549",
+    "resolved_via": "MITRE ATT&CK",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "LicenseRef-MITRE-ATTACK",
+    "source": "MITRE ATT&CK",
+    "source_ref": "v20.1"
+  },
+  {
+    "actor_key": "misp:02768be6-853c-4239-8fb1-823427489a86",
+    "name": "APT45",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:062938a2-6fa1-4217-ad73-f5e0b5186966",
+    "name": "Candiru",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:062938a2-6fa1-4217-ad73-f5e0b5186966",
+    "name": "SOURGUM",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:0b792fbe-87c2-42c5-8d0d-97c7d47078b5",
+    "name": "Solntsepek",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:1671be1b-c844-48f5-84c8-54ac4fe4d71e",
+    "name": "Infy",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:1725e1c3-9870-4f66-8962-753c4ed3e086",
+    "name": "TA4903",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:18d4647b-2be2-4c50-87dc-8fdcec4d2664",
+    "name": "UNC2814",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:1e3efe43-9006-4ac8-b9ee-f1fbb9794cd9",
+    "name": "RaHDit",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:2031ae01-e962-4861-a224-0934af6cdd3a",
+    "name": "Cavalry Werewolf",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:2031ae01-e962-4861-a224-0934af6cdd3a",
+    "name": "ShadowSilk",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:2031ae01-e962-4861-a224-0934af6cdd3a",
+    "name": "Silent Lynx",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:2031ae01-e962-4861-a224-0934af6cdd3a",
+    "name": "YoroTrooper",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:207fea73-aebd-40c0-a8de-63bb605cada2",
+    "name": "APTIran",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:2ac0db88-8e88-447b-ad44-f781326f5884",
+    "name": "Silver Fox",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:2ac0db88-8e88-447b-ad44-f781326f5884",
+    "name": "Yinhu",
+    "resolved_via": "stated in reporting",
+    "basis": "reviewed",
+    "stated_by": [
+      "microsoft:149252"
+    ],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  },
+  {
+    "actor_key": "misp:2ac0db88-8e88-447b-ad44-f781326f5884",
+    "name": "银狐",
+    "resolved_via": "stated in reporting",
+    "basis": "reviewed",
+    "stated_by": [
+      "microsoft:149252"
+    ],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  },
+  {
+    "actor_key": "misp:2c1b3ad6-6354-4e97-a407-6105b223dfe9",
+    "name": "Hyadina",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:301ffea9-edd5-4d89-a65f-8add8e34e95d",
+    "name": "Storm-0940",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 4,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:34d2ed46-0b42-45a0-a8a4-2148f5990036",
+    "name": "UTA0533",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:35f887ad-6709-4d0b-8e9c-6b3fa09c783f",
+    "name": "CALANQUE ION",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:3ba33e02-c485-40dd-b9af-c4f9a7c46fd5",
+    "name": "JadePuffer",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 2,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:3ba33e02-c485-40dd-b9af-c4f9a7c46fd5",
+    "name": "Storm-3168",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:40375ed2-04ec-433f-969d-b9a004c0272e",
+    "name": "DragonForce",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 2,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:4125764c-ec9a-4a11-88c3-140d8b6e2810",
+    "name": "Vapor Panda",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:4f1c43a4-3788-4035-a99c-e510f89edd0f",
+    "name": "Redfly",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:4fc6dfbc-90de-47d2-82af-f271eb972fa0",
+    "name": "UNC6293",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:50ee2b1b-979e-4507-8747-8597a95938f6",
+    "name": "Ethereal Panda",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:50ee2b1b-979e-4507-8747-8597a95938f6",
+    "name": "Flax Typhoon",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 2,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:529ab5a8-b53d-4c4d-b2c2-75f13a5eaaa6",
+    "name": "UTA0576",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 2,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:5869bc41-c58a-4e06-9419-b3874a4d3a12",
+    "name": "CL-CRI-1032",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:5869bc41-c58a-4e06-9419-b3874a4d3a12",
+    "name": "Storm-0539",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:5a00ccdb-7987-4563-af4f-e368af8406df",
+    "name": "UNC4536",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:670b3faa-10ab-4501-a982-e1b36233ed02",
+    "name": "Storm-0900",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:670b3faa-10ab-4501-a982-e1b36233ed02",
+    "name": "TA584",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:6b5b68ef-b290-43df-a42b-293e849854c0",
+    "name": "BREEZE COMET",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:6b5b68ef-b290-43df-a42b-293e849854c0",
+    "name": "UNC5669",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:6c253a07-b75d-4c3c-a93d-13aed83662f1",
+    "name": "UNC5342",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:749aaa11-f0fd-416b-bf6c-112f9b5930a5",
+    "name": "Ghostwriter",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:749aaa11-f0fd-416b-bf6c-112f9b5930a5",
+    "name": "TA445",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:749aaa11-f0fd-416b-bf6c-112f9b5930a5",
+    "name": "UNC1151",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:749b849c-11a6-4ec5-9a56-67caa72fd0bc",
+    "name": "Xuanye Group",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:7a609a0b-8c24-424b-aa85-393d97bbd470",
+    "name": "CHATTY SPIDER",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 2,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:7a609a0b-8c24-424b-aa85-393d97bbd470",
+    "name": "Luna Moth",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:7a609a0b-8c24-424b-aa85-393d97bbd470",
+    "name": "SilentRansomGroup",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:7a609a0b-8c24-424b-aa85-393d97bbd470",
+    "name": "UNC3753",
+    "resolved_via": "stated in reporting",
+    "basis": "reviewed",
+    "stated_by": [
+      "gtig:targeted-campaign-us-law-firms"
+    ],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  },
+  {
+    "actor_key": "misp:7ff63e0c-2345-4282-b4d7-0e5dc49dfc60",
+    "name": "Storm-2561",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:80c3a67b-f41a-4298-a3b0-a3df64bbac31",
+    "name": "TA4922",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 3,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:820afecb-e91f-424e-8e70-0ac880963191",
+    "name": "WARP PANDA",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 2,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:825abfd9-7238-4438-a9e7-c08791f4df4e",
+    "name": "Jade Sleet",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 2,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:825abfd9-7238-4438-a9e7-c08791f4df4e",
+    "name": "Pressure Chollima",
+    "resolved_via": "stated in reporting",
+    "basis": "reviewed",
+    "stated_by": [
+      "zscaler:suspected-tradertraitor-group-uses-trojanized-terraform-962601fb"
+    ],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  },
+  {
+    "actor_key": "misp:825abfd9-7238-4438-a9e7-c08791f4df4e",
+    "name": "Slow Pisces",
+    "resolved_via": "stated in reporting",
+    "basis": "reviewed",
+    "stated_by": [
+      "zscaler:suspected-tradertraitor-group-uses-trojanized-terraform-962601fb"
+    ],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  },
+  {
+    "actor_key": "misp:825abfd9-7238-4438-a9e7-c08791f4df4e",
+    "name": "TraderTraitor",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 2,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:825abfd9-7238-4438-a9e7-c08791f4df4e",
+    "name": "UNC4899",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 2,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:8a1b831c-e07e-43ad-933a-7fe7a9a1e449",
+    "name": "KongTuke",
+    "resolved_via": "stated in reporting",
+    "basis": "reviewed",
+    "stated_by": [
+      "symantec:node-js-returns-ransomware",
+      "symantec:new-mistic-backdoor-modelorat",
+      "proofpoint:2026-06-17"
+    ],
+    "report_count": 3,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  },
+  {
+    "actor_key": "misp:8a1b831c-e07e-43ad-933a-7fe7a9a1e449",
+    "name": "LandUpdate808",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:8a1b831c-e07e-43ad-933a-7fe7a9a1e449",
+    "name": "Woodgnat",
+    "resolved_via": "stated in reporting",
+    "basis": "reviewed",
+    "stated_by": [
+      "symantec:node-js-returns-ransomware",
+      "symantec:new-mistic-backdoor-modelorat"
+    ],
+    "report_count": 2,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  },
+  {
+    "actor_key": "misp:8e570a06-170c-4ce5-adb9-a4bfa843bde6",
+    "name": "UNC6508",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:9565bf78-7c9c-41cd-9ed0-58031f6d8978",
+    "name": "UAC-0063",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:981402be-3b2d-4310-a7c6-c773aec869c1",
+    "name": "Longlegs",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 2,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:981402be-3b2d-4310-a7c6-c773aec869c1",
+    "name": "Storm-2603",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 2,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:98ff9870-3da1-4642-be8c-df6834623b23",
+    "name": "GhostAction",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 2,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:9c124874-042d-48cd-b72b-ccdc51ecbbd6",
+    "name": "Grayfly",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:9c2600e2-d9e6-42ea-963c-972a4b5673c6",
+    "name": "Storm-2372",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:9d0e4a28-8765-45c5-9cf8-18c5d11235b0",
+    "name": "TAG-193",
+    "resolved_via": "stated in reporting",
+    "basis": "reviewed",
+    "stated_by": [
+      "talos:6acd295a9f3e8a0001f8e78b"
+    ],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  },
+  {
+    "actor_key": "misp:9d0e4a28-8765-45c5-9cf8-18c5d11235b0",
+    "name": "UAT-6275",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:9d82077b-7e95-4b22-8762-3224797ff5f0",
+    "name": "Earth Berberoka",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:9d82077b-7e95-4b22-8762-3224797ff5f0",
+    "name": "GamblingPuppet",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:a5ddcb59-6fb9-4384-b3aa-4ca5c00d78c3",
+    "name": "Storm-3358",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:a7e30dc5-6efd-4d0b-ba09-ce8a3a573c96",
+    "name": "UNC7228",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:a8386969-bf32-47f7-b460-78e0d0a9ef38",
+    "name": "UNC6201",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:aaba51f8-7e75-46d1-b311-5aadbc370c97",
+    "name": "Storm-2945",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 2,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:aaba51f8-7e75-46d1-b311-5aadbc370c97",
+    "name": "UNC7005",
+    "resolved_via": "stated in reporting",
+    "basis": "reviewed",
+    "stated_by": [
+      "gtig:distinct-clusters-target-individuals-of-interest-t"
+    ],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  },
+  {
+    "actor_key": "misp:aad291eb-08d1-4af4-9dd1-e90fe1f2d6c6",
+    "name": "TA402",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:af5320b8-07a9-4703-a657-a11f728ef570",
+    "name": "Z-Pentest",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 3,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:af5320b8-07a9-4703-a657-a11f728ef570",
+    "name": "Z-Pentest Alliance",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:b495419f-e327-4bbe-aba5-0c281dc2605b",
+    "name": "LAUNDRY BEAR",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 3,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:b495419f-e327-4bbe-aba5-0c281dc2605b",
+    "name": "TA488",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 3,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:b495419f-e327-4bbe-aba5-0c281dc2605b",
+    "name": "UNK_PitStop",
+    "resolved_via": "stated in reporting",
+    "basis": "authority",
+    "stated_by": [
+      "proofpoint:ta488-targets-zimbra-mailservers-half-click-exploi",
+      "cisa:aa26-204a"
+    ],
+    "report_count": 2,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  },
+  {
+    "actor_key": "misp:b495419f-e327-4bbe-aba5-0c281dc2605b",
+    "name": "Void Blizzard",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 3,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:b4bbbd06-a204-4363-90d2-f38cc0def521",
+    "name": "UTA0355",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:b687defa-308c-4f9e-bb9e-d9d30fb4b1a0",
+    "name": "Storm-2992",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:b7e897da-108b-4f5b-b32b-3fd9375cc55e",
+    "name": "Alluring Pisces",
+    "resolved_via": "stated in reporting",
+    "basis": "reviewed",
+    "stated_by": [
+      "unit42:187943"
+    ],
+    "report_count": 2,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  },
+  {
+    "actor_key": "misp:b7e897da-108b-4f5b-b32b-3fd9375cc55e",
+    "name": "CryptoCore",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:b7e897da-108b-4f5b-b32b-3fd9375cc55e",
+    "name": "MIDNIGHT NEPTUNE",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 3,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:b7e897da-108b-4f5b-b32b-3fd9375cc55e",
+    "name": "UNC1069",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 3,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:b8c6da46-4c9a-4075-b9f3-3b5ef7bd3534",
+    "name": "UNC5537",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:c1ef86d7-ab86-4188-91d2-af3f36207d96",
+    "name": "UNC7017",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:c21d7fef-0bab-4229-a103-5e8275434141",
+    "name": "GTG-1002",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:c4132d43-2405-43ca-9940-a6f78e007861",
+    "name": "Vanilla Tempest",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:c4132d43-2405-43ca-9940-a6f78e007861",
+    "name": "Vice Society",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:c95520c1-0a27-42aa-9853-bf5f0f3bc074",
+    "name": "SmugX",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:d20f5398-a362-4c88-b3fb-7e952dcf3948",
+    "name": "RedJuliett",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:d5e90854-d5c9-11e8-98b9-1f98eb80d30a",
+    "name": "Shadow Brokers",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:d7140683-7af8-41c6-8938-18a69bb809e3",
+    "name": "TA419",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:e13e36e7-a75b-42fa-8d51-35f9eeafebfc",
+    "name": "CL-STA-0954",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:e13e36e7-a75b-42fa-8d51-35f9eeafebfc",
+    "name": "UNC5820",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:e18dca82-0524-4338-9a66-e13e67c81ac4",
+    "name": "Storm-1152",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:e496af6a-1f1b-47fd-b908-fc369e32ffba",
+    "name": "CARR",
+    "resolved_via": "stated in reporting",
+    "basis": "reviewed",
+    "stated_by": [
+      "cisa:aa25-343a"
+    ],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  },
+  {
+    "actor_key": "misp:e496af6a-1f1b-47fd-b908-fc369e32ffba",
+    "name": "Cyber Army of Russia Reborn",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:e496af6a-1f1b-47fd-b908-fc369e32ffba",
+    "name": "The People's Cyber Army of Russia",
+    "resolved_via": "stated in reporting",
+    "basis": "reviewed",
+    "stated_by": [
+      "cisa:aa25-343a"
+    ],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  },
+  {
+    "actor_key": "misp:e62937d0-dec6-4c39-a836-e43b1d138df4",
+    "name": "NoName057(16)",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 7,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:eafdd27f-a3e2-4bb1-ae03-bf9ca5ff0355",
+    "name": "CamoFei",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:eafdd27f-a3e2-4bb1-ae03-bf9ca5ff0355",
+    "name": "Chamelgang",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:ef0d776a-51de-4965-ba1c-69ed256e0e5d",
+    "name": "Pearl Sleet",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:f288f686-b5b3-4c86-9960-5f8fb18709a3",
+    "name": "ARMORY CASTLE",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 3,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:f288f686-b5b3-4c86-9960-5f8fb18709a3",
+    "name": "UNC5221",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 4,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:faa83106-1329-4049-87a8-7740d986a349",
+    "name": "Storm-1747",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:fddcdeb1-0528-4770-ad2e-f61718e1dc04",
+    "name": "UNC6671",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 2,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:ff080026-9df7-4874-ad04-0c7d4dcb3e7f",
+    "name": "CL-STA-0049",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:ff080026-9df7-4874-ad04-0c7d4dcb3e7f",
+    "name": "Earth Alux",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 2,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:ff080026-9df7-4874-ad04-0c7d4dcb3e7f",
+    "name": "Ink Dragon",
+    "resolved_via": "stated in reporting",
+    "basis": "reviewed",
+    "stated_by": [
+      "unit42:189752"
+    ],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  },
+  {
+    "actor_key": "misp:ff080026-9df7-4874-ad04-0c7d4dcb3e7f",
+    "name": "Jewelbug",
+    "resolved_via": "MISP synonym",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 2,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:ff080026-9df7-4874-ad04-0c7d4dcb3e7f",
+    "name": "REF7707",
+    "resolved_via": "MISP primary name",
+    "basis": null,
+    "stated_by": [],
+    "report_count": 2,
+    "license": "CC0-1.0",
+    "source": "MISP",
+    "source_ref": "2278d35e1ded24e2c5e93ebea7bd9a601978371a"
+  },
+  {
+    "actor_key": "misp:ff080026-9df7-4874-ad04-0c7d4dcb3e7f",
+    "name": "TGR-STA-0049",
+    "resolved_via": "stated in reporting",
+    "basis": "reviewed",
+    "stated_by": [
+      "unit42:189752"
+    ],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  },
+  {
+    "actor_key": "reporting:alphv",
+    "name": "ALPHV",
+    "resolved_via": "stated in reporting",
+    "basis": "reviewed",
+    "stated_by": [
+      "unit42:189023"
+    ],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  },
+  {
+    "actor_key": "reporting:alphv",
+    "name": "Ambitious Scorpius",
+    "resolved_via": "stated in reporting",
+    "basis": "reviewed",
+    "stated_by": [
+      "unit42:189023"
+    ],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  },
+  {
+    "actor_key": "reporting:cl0p",
+    "name": "CL0P",
+    "resolved_via": "stated in reporting",
+    "basis": "reviewed",
+    "stated_by": [
+      "unit42:189023"
+    ],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  },
+  {
+    "actor_key": "reporting:cl0p",
+    "name": "Hazy Scorpius",
+    "resolved_via": "stated in reporting",
+    "basis": "reviewed",
+    "stated_by": [
+      "unit42:189023"
+    ],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  },
+  {
+    "actor_key": "reporting:cordialspider",
+    "name": "CORDIAL SPIDER",
+    "resolved_via": "stated in reporting",
+    "basis": "reviewed",
+    "stated_by": [
+      "okta:behind-the-scenes-of-a-vishing-operation"
+    ],
+    "report_count": 2,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  },
+  {
+    "actor_key": "reporting:cordialspider",
+    "name": "O-UNC-045",
+    "resolved_via": "stated in reporting",
+    "basis": "reviewed",
+    "stated_by": [
+      "okta:behind-the-scenes-of-a-vishing-operation"
+    ],
+    "report_count": 2,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  },
+  {
+    "actor_key": "reporting:inc",
+    "name": "Inc",
+    "resolved_via": "stated in reporting",
+    "basis": "reviewed",
+    "stated_by": [
+      "unit42:182026"
+    ],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  },
+  {
+    "actor_key": "reporting:inc",
+    "name": "Tarnished Scorpius",
+    "resolved_via": "stated in reporting",
+    "basis": "reviewed",
+    "stated_by": [
+      "unit42:182026"
+    ],
+    "report_count": 1,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  },
+  {
+    "actor_key": "reporting:qilin",
+    "name": "Qilin",
+    "resolved_via": "stated in reporting",
+    "basis": "reviewed",
+    "stated_by": [
+      "unit42:189023",
+      "unit42:182026"
+    ],
+    "report_count": 3,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  },
+  {
+    "actor_key": "reporting:qilin",
+    "name": "Spikey Scorpius",
+    "resolved_via": "stated in reporting",
+    "basis": "reviewed",
+    "stated_by": [
+      "unit42:189023",
+      "unit42:182026"
+    ],
+    "report_count": 2,
+    "license": "CC0-1.0",
+    "source": "reporting",
+    "source_ref": ""
+  }
+]

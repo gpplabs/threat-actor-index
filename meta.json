@@ -1,0 +1,30 @@
+{
+  "dataset_name": "Threat Actor Index",
+  "publisher": "GPP Labs",
+  "data_schema_version": "1.2",
+  "export_date": "2026-11-17",
+  "corpus_date_range": {
+    "from": "2020-09-21",
+    "to": "2026-11-17"
+  },
+  "mitre_attack_version": "v20.1",
+  "misp_commit": "2278d35e1ded24e2c5e93ebea7bd9a601978371a",
+  "totals": {
+    "actors": 120,
+    "names": 250,
+    "citations": 218,
+    "redirects": 0,
+    "rows_by_license": {
+      "CC0-1.0": 450,
+      "LicenseRef-MITRE-ATTACK": 138
+    },
+    "rows_by_source": {
+      "MISP": 188,
+      "MITRE ATT&CK": 138,
+      "reporting": 262
+    }
+  },
+  "license": "CC0-1.0",
+  "source": "reporting",
+  "source_ref": ""
+}

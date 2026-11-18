@@ -1,0 +1,251 @@
+actor_key,name,resolved_via,basis,stated_by,report_count,license,source,source_ref
+G0004,APT15,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0007,APT28,MITRE ATT&CK,,,4,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0007,BlueDelta,MISP synonym,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+G0007,Fancy Bear,MITRE ATT&CK,,,3,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0007,Forest Blizzard,MITRE ATT&CK,,,4,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0007,"GRU 85th GTsSS, military unit 26165",stated in reporting,reviewed,cisa:aa25-141a,1,CC0-1.0,reporting,
+G0007,GRU Unit 26165,stated in reporting,reviewed,cisa:aa25-141a,2,CC0-1.0,reporting,
+G0007,Sofacy,MITRE ATT&CK,,,2,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0007,Swallowtail,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0007,TA422,MISP synonym,,,2,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+G0010,Secret Blizzard,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0010,SUMMIT,MISP synonym,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+G0010,Turla,MITRE ATT&CK,,,2,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0010,UAC-0194,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+G0010,Venomous Bear,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0016,APT29,MITRE ATT&CK,,,4,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0016,Cozy Bear,MITRE ATT&CK,,,2,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0016,ICE RELIC,MISP synonym,,,2,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+G0016,Midnight Blizzard,MITRE ATT&CK,,,3,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0016,The Dukes,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0020,Equation Group,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+G0027,APT27,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0032,Diamond Sleet,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0032,Lazarus Group,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0034,APT44,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0034,GRU military unit 74455,stated in reporting,reviewed,cisa:aa25-343a,1,CC0-1.0,reporting,
+G0034,Sandworm,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+G0034,Sandworm Team,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0035,Berserk Bear,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0035,Crouching Yeti,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0035,Dragonfly,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0035,Energetic Bear,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0035,Ghost Blizzard,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0044,Blackfly,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0046,FIN7,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0049,OilRig,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0059,Charming Kitten,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0059,Mint Sandstorm,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0059,TA453,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0067,APT37,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0067,InkySquid,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0069,MuddyWater,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0069,Static Kitten,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0073,Codoso,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0082,Bluenoroff,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0082,Sapphire Sleet,MITRE ATT&CK,,,4,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0082,Stardust Chollima,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0094,Emerald Sleet,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0096,APT41,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0117,Fox Kitten,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0117,Lemon Sandstorm,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0117,Pioneer Kitten,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0117,RUBIDIUM,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0117,UNC757,MITRE ATT&CK,,,2,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0119,Evil Corp,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0120,Evilnum,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0125,MURKY PANDA,MISP synonym,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+G0128,APT31,MITRE ATT&CK,,,3,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0128,JungleBamboo,stated in reporting,corroborated,proofpoint:148109|volexity:5402,3,CC0-1.0,reporting,
+G0128,TA412,MISP synonym,,,2,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+G0128,TIDE CASTLE,MISP synonym,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+G0128,Violet Typhoon,MITRE ATT&CK,,,2,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0129,EARTH PRETA,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0129,HIVE0154,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0129,HoneyMyte,MISP synonym,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+G0129,Mustang Panda,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0129,RedDelta,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0129,Red Lich,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0129,STATELY TAURUS,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0129,TA416,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0129,TEMP.Hex,MITRE ATT&CK,,,2,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0129,TWILL TYPHOON,MITRE ATT&CK,,,2,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0129,UNC6384,MITRE ATT&CK,,,2,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G0129,Vertigo Panda,MISP synonym,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+G0138,Onyx Sleet,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G1002,BITTER,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G1004,LAPSUS$,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G1015,Muddled Libra,MISP synonym,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+G1015,Scattered Spider,MITRE ATT&CK,,,4,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G1017,Volt Typhoon,MITRE ATT&CK,,,3,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G1020,TA569,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G1024,Akira,MITRE ATT&CK,,,2,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G1024,Howling Scorpius,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G1027,Bauxite,stated in reporting,reviewed,cisa:aa26-097a,1,CC0-1.0,reporting,
+G1027,CyberAv3ngers,MITRE ATT&CK,,,4,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G1027,CyberAveng3rs,stated in reporting,reviewed,sekoia:the-cold-chain-on-fire-unpatched-danfoss-controllers-exploited,1,CC0-1.0,reporting,
+G1027,Cyber Isnaad Front,stated in reporting,reviewed,sekoia:the-cold-chain-on-fire-unpatched-danfoss-controllers-exploited,1,CC0-1.0,reporting,
+G1027,Hydro Kitten,stated in reporting,reviewed,cisa:aa26-097a,1,CC0-1.0,reporting,
+G1027,Mr. Soul,stated in reporting,reviewed,sekoia:the-cold-chain-on-fire-unpatched-danfoss-controllers-exploited|cisa:aa26-097a,2,CC0-1.0,reporting,
+G1027,Shahid Kaveh Group,MISP synonym,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+G1027,Soldiers of Solomon,stated in reporting,reviewed,sekoia:the-cold-chain-on-fire-unpatched-danfoss-controllers-exploited|cisa:aa26-097a,2,CC0-1.0,reporting,
+G1027,Storm-0784,stated in reporting,reviewed,cisa:aa26-097a,1,CC0-1.0,reporting,
+G1027,UNC5691,stated in reporting,reviewed,cisa:aa26-097a,1,CC0-1.0,reporting,
+G1033,COLDRIVER,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G1033,Star Blizzard,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G1033,UNC4057,MISP synonym,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+G1035,TA473,MITRE ATT&CK,,,2,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G1035,Winter Vivern,MITRE ATT&CK,,,2,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G1043,BlackByte,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G1044,APT42,MITRE ATT&CK,,,2,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G1045,GhostEmperor,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+G1045,OPERATOR PANDA,MISP synonym,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+G1045,RedMike,MISP synonym,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+G1045,Salt Typhoon,MITRE ATT&CK,,,2,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G1049,UNC4736,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G1052,Contagious Interview,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G1052,Famous Chollima,MISP synonym,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+G1055,BANISHED KITTEN,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G1055,Handala,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+G1055,Handala Hack,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G1055,Homeland Justice,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G1055,Red Sandstorm,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G1055,Storm-0842,MISP synonym,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+G1055,VOID MANTICORE,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G1056,DeadCatx3,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G1056,PCPCat,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G1056,ShellForce,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G1056,TeamPCP,MITRE ATT&CK,,,11,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G1056,UNC6780,MITRE ATT&CK,,,3,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G1057,Bling Libra,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G1057,ShinyHunters,MITRE ATT&CK,,,6,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G1057,UNC6240,MITRE ATT&CK,,,2,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G1058,TGR-CRI-1173,stated in reporting,reviewed,unit42:189023,1,CC0-1.0,reporting,
+G1058,The Gentlemen,MITRE ATT&CK,,,2,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+G1059,Screening Serpens,stated in reporting,reviewed,unit42:187630,1,CC0-1.0,reporting,
+G1059,UNC1549,MITRE ATT&CK,,,1,LicenseRef-MITRE-ATTACK,MITRE ATT&CK,v20.1
+misp:02768be6-853c-4239-8fb1-823427489a86,APT45,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:062938a2-6fa1-4217-ad73-f5e0b5186966,Candiru,MISP synonym,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:062938a2-6fa1-4217-ad73-f5e0b5186966,SOURGUM,MISP synonym,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:0b792fbe-87c2-42c5-8d0d-97c7d47078b5,Solntsepek,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:1671be1b-c844-48f5-84c8-54ac4fe4d71e,Infy,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:1725e1c3-9870-4f66-8962-753c4ed3e086,TA4903,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:18d4647b-2be2-4c50-87dc-8fdcec4d2664,UNC2814,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:1e3efe43-9006-4ac8-b9ee-f1fbb9794cd9,RaHDit,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:2031ae01-e962-4861-a224-0934af6cdd3a,Cavalry Werewolf,MISP synonym,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:2031ae01-e962-4861-a224-0934af6cdd3a,ShadowSilk,MISP synonym,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:2031ae01-e962-4861-a224-0934af6cdd3a,Silent Lynx,MISP synonym,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:2031ae01-e962-4861-a224-0934af6cdd3a,YoroTrooper,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:207fea73-aebd-40c0-a8de-63bb605cada2,APTIran,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:2ac0db88-8e88-447b-ad44-f781326f5884,Silver Fox,MISP synonym,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:2ac0db88-8e88-447b-ad44-f781326f5884,Yinhu,stated in reporting,reviewed,microsoft:149252,1,CC0-1.0,reporting,
+misp:2ac0db88-8e88-447b-ad44-f781326f5884,银狐,stated in reporting,reviewed,microsoft:149252,1,CC0-1.0,reporting,
+misp:2c1b3ad6-6354-4e97-a407-6105b223dfe9,Hyadina,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:301ffea9-edd5-4d89-a65f-8add8e34e95d,Storm-0940,MISP primary name,,,4,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:34d2ed46-0b42-45a0-a8a4-2148f5990036,UTA0533,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:35f887ad-6709-4d0b-8e9c-6b3fa09c783f,CALANQUE ION,MISP synonym,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:3ba33e02-c485-40dd-b9af-c4f9a7c46fd5,JadePuffer,MISP primary name,,,2,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:3ba33e02-c485-40dd-b9af-c4f9a7c46fd5,Storm-3168,MISP synonym,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:40375ed2-04ec-433f-969d-b9a004c0272e,DragonForce,MISP primary name,,,2,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:4125764c-ec9a-4a11-88c3-140d8b6e2810,Vapor Panda,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:4f1c43a4-3788-4035-a99c-e510f89edd0f,Redfly,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:4fc6dfbc-90de-47d2-82af-f271eb972fa0,UNC6293,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:50ee2b1b-979e-4507-8747-8597a95938f6,Ethereal Panda,MISP synonym,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:50ee2b1b-979e-4507-8747-8597a95938f6,Flax Typhoon,MISP primary name,,,2,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:529ab5a8-b53d-4c4d-b2c2-75f13a5eaaa6,UTA0576,MISP primary name,,,2,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:5869bc41-c58a-4e06-9419-b3874a4d3a12,CL-CRI-1032,MISP synonym,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:5869bc41-c58a-4e06-9419-b3874a4d3a12,Storm-0539,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:5a00ccdb-7987-4563-af4f-e368af8406df,UNC4536,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:670b3faa-10ab-4501-a982-e1b36233ed02,Storm-0900,MISP synonym,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:670b3faa-10ab-4501-a982-e1b36233ed02,TA584,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:6b5b68ef-b290-43df-a42b-293e849854c0,BREEZE COMET,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:6b5b68ef-b290-43df-a42b-293e849854c0,UNC5669,MISP synonym,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:6c253a07-b75d-4c3c-a93d-13aed83662f1,UNC5342,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:749aaa11-f0fd-416b-bf6c-112f9b5930a5,Ghostwriter,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:749aaa11-f0fd-416b-bf6c-112f9b5930a5,TA445,MISP synonym,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:749aaa11-f0fd-416b-bf6c-112f9b5930a5,UNC1151,MISP synonym,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:749b849c-11a6-4ec5-9a56-67caa72fd0bc,Xuanye Group,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:7a609a0b-8c24-424b-aa85-393d97bbd470,CHATTY SPIDER,MISP synonym,,,2,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:7a609a0b-8c24-424b-aa85-393d97bbd470,Luna Moth,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:7a609a0b-8c24-424b-aa85-393d97bbd470,SilentRansomGroup,MISP synonym,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:7a609a0b-8c24-424b-aa85-393d97bbd470,UNC3753,stated in reporting,reviewed,gtig:targeted-campaign-us-law-firms,1,CC0-1.0,reporting,
+misp:7ff63e0c-2345-4282-b4d7-0e5dc49dfc60,Storm-2561,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:80c3a67b-f41a-4298-a3b0-a3df64bbac31,TA4922,MISP primary name,,,3,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:820afecb-e91f-424e-8e70-0ac880963191,WARP PANDA,MISP primary name,,,2,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:825abfd9-7238-4438-a9e7-c08791f4df4e,Jade Sleet,MISP synonym,,,2,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:825abfd9-7238-4438-a9e7-c08791f4df4e,Pressure Chollima,stated in reporting,reviewed,zscaler:suspected-tradertraitor-group-uses-trojanized-terraform-962601fb,1,CC0-1.0,reporting,
+misp:825abfd9-7238-4438-a9e7-c08791f4df4e,Slow Pisces,stated in reporting,reviewed,zscaler:suspected-tradertraitor-group-uses-trojanized-terraform-962601fb,1,CC0-1.0,reporting,
+misp:825abfd9-7238-4438-a9e7-c08791f4df4e,TraderTraitor,MISP primary name,,,2,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:825abfd9-7238-4438-a9e7-c08791f4df4e,UNC4899,MISP synonym,,,2,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:8a1b831c-e07e-43ad-933a-7fe7a9a1e449,KongTuke,stated in reporting,reviewed,symantec:node-js-returns-ransomware|symantec:new-mistic-backdoor-modelorat|proofpoint:2026-06-17,3,CC0-1.0,reporting,
+misp:8a1b831c-e07e-43ad-933a-7fe7a9a1e449,LandUpdate808,MISP synonym,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:8a1b831c-e07e-43ad-933a-7fe7a9a1e449,Woodgnat,stated in reporting,reviewed,symantec:node-js-returns-ransomware|symantec:new-mistic-backdoor-modelorat,2,CC0-1.0,reporting,
+misp:8e570a06-170c-4ce5-adb9-a4bfa843bde6,UNC6508,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:9565bf78-7c9c-41cd-9ed0-58031f6d8978,UAC-0063,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:981402be-3b2d-4310-a7c6-c773aec869c1,Longlegs,MISP synonym,,,2,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:981402be-3b2d-4310-a7c6-c773aec869c1,Storm-2603,MISP primary name,,,2,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:98ff9870-3da1-4642-be8c-df6834623b23,GhostAction,MISP primary name,,,2,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:9c124874-042d-48cd-b72b-ccdc51ecbbd6,Grayfly,MISP synonym,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:9c2600e2-d9e6-42ea-963c-972a4b5673c6,Storm-2372,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:9d0e4a28-8765-45c5-9cf8-18c5d11235b0,TAG-193,stated in reporting,reviewed,talos:6acd295a9f3e8a0001f8e78b,1,CC0-1.0,reporting,
+misp:9d0e4a28-8765-45c5-9cf8-18c5d11235b0,UAT-6275,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:9d82077b-7e95-4b22-8762-3224797ff5f0,Earth Berberoka,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:9d82077b-7e95-4b22-8762-3224797ff5f0,GamblingPuppet,MISP synonym,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:a5ddcb59-6fb9-4384-b3aa-4ca5c00d78c3,Storm-3358,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:a7e30dc5-6efd-4d0b-ba09-ce8a3a573c96,UNC7228,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:a8386969-bf32-47f7-b460-78e0d0a9ef38,UNC6201,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:aaba51f8-7e75-46d1-b311-5aadbc370c97,Storm-2945,MISP primary name,,,2,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:aaba51f8-7e75-46d1-b311-5aadbc370c97,UNC7005,stated in reporting,reviewed,gtig:distinct-clusters-target-individuals-of-interest-t,1,CC0-1.0,reporting,
+misp:aad291eb-08d1-4af4-9dd1-e90fe1f2d6c6,TA402,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:af5320b8-07a9-4703-a657-a11f728ef570,Z-Pentest,MISP synonym,,,3,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:af5320b8-07a9-4703-a657-a11f728ef570,Z-Pentest Alliance,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:b495419f-e327-4bbe-aba5-0c281dc2605b,LAUNDRY BEAR,MISP synonym,,,3,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:b495419f-e327-4bbe-aba5-0c281dc2605b,TA488,MISP synonym,,,3,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:b495419f-e327-4bbe-aba5-0c281dc2605b,UNK_PitStop,stated in reporting,authority,proofpoint:ta488-targets-zimbra-mailservers-half-click-exploi|cisa:aa26-204a,2,CC0-1.0,reporting,
+misp:b495419f-e327-4bbe-aba5-0c281dc2605b,Void Blizzard,MISP primary name,,,3,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:b4bbbd06-a204-4363-90d2-f38cc0def521,UTA0355,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:b687defa-308c-4f9e-bb9e-d9d30fb4b1a0,Storm-2992,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:b7e897da-108b-4f5b-b32b-3fd9375cc55e,Alluring Pisces,stated in reporting,reviewed,unit42:187943,2,CC0-1.0,reporting,
+misp:b7e897da-108b-4f5b-b32b-3fd9375cc55e,CryptoCore,MISP synonym,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:b7e897da-108b-4f5b-b32b-3fd9375cc55e,MIDNIGHT NEPTUNE,MISP synonym,,,3,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:b7e897da-108b-4f5b-b32b-3fd9375cc55e,UNC1069,MISP primary name,,,3,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:b8c6da46-4c9a-4075-b9f3-3b5ef7bd3534,UNC5537,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:c1ef86d7-ab86-4188-91d2-af3f36207d96,UNC7017,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:c21d7fef-0bab-4229-a103-5e8275434141,GTG-1002,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:c4132d43-2405-43ca-9940-a6f78e007861,Vanilla Tempest,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:c4132d43-2405-43ca-9940-a6f78e007861,Vice Society,MISP synonym,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:c95520c1-0a27-42aa-9853-bf5f0f3bc074,SmugX,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:d20f5398-a362-4c88-b3fb-7e952dcf3948,RedJuliett,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:d5e90854-d5c9-11e8-98b9-1f98eb80d30a,Shadow Brokers,MISP synonym,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:d7140683-7af8-41c6-8938-18a69bb809e3,TA419,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:e13e36e7-a75b-42fa-8d51-35f9eeafebfc,CL-STA-0954,MISP synonym,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:e13e36e7-a75b-42fa-8d51-35f9eeafebfc,UNC5820,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:e18dca82-0524-4338-9a66-e13e67c81ac4,Storm-1152,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:e496af6a-1f1b-47fd-b908-fc369e32ffba,CARR,stated in reporting,reviewed,cisa:aa25-343a,1,CC0-1.0,reporting,
+misp:e496af6a-1f1b-47fd-b908-fc369e32ffba,Cyber Army of Russia Reborn,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:e496af6a-1f1b-47fd-b908-fc369e32ffba,The People's Cyber Army of Russia,stated in reporting,reviewed,cisa:aa25-343a,1,CC0-1.0,reporting,
+misp:e62937d0-dec6-4c39-a836-e43b1d138df4,NoName057(16),MISP primary name,,,7,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:eafdd27f-a3e2-4bb1-ae03-bf9ca5ff0355,CamoFei,MISP synonym,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:eafdd27f-a3e2-4bb1-ae03-bf9ca5ff0355,Chamelgang,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:ef0d776a-51de-4965-ba1c-69ed256e0e5d,Pearl Sleet,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:f288f686-b5b3-4c86-9960-5f8fb18709a3,ARMORY CASTLE,MISP synonym,,,3,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:f288f686-b5b3-4c86-9960-5f8fb18709a3,UNC5221,MISP synonym,,,4,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:faa83106-1329-4049-87a8-7740d986a349,Storm-1747,MISP primary name,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:fddcdeb1-0528-4770-ad2e-f61718e1dc04,UNC6671,MISP primary name,,,2,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:ff080026-9df7-4874-ad04-0c7d4dcb3e7f,CL-STA-0049,MISP synonym,,,1,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:ff080026-9df7-4874-ad04-0c7d4dcb3e7f,Earth Alux,MISP primary name,,,2,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:ff080026-9df7-4874-ad04-0c7d4dcb3e7f,Ink Dragon,stated in reporting,reviewed,unit42:189752,1,CC0-1.0,reporting,
+misp:ff080026-9df7-4874-ad04-0c7d4dcb3e7f,Jewelbug,MISP synonym,,,2,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:ff080026-9df7-4874-ad04-0c7d4dcb3e7f,REF7707,MISP primary name,,,2,CC0-1.0,MISP,2278d35e1ded24e2c5e93ebea7bd9a601978371a
+misp:ff080026-9df7-4874-ad04-0c7d4dcb3e7f,TGR-STA-0049,stated in reporting,reviewed,unit42:189752,1,CC0-1.0,reporting,
+reporting:alphv,ALPHV,stated in reporting,reviewed,unit42:189023,1,CC0-1.0,reporting,
+reporting:alphv,Ambitious Scorpius,stated in reporting,reviewed,unit42:189023,1,CC0-1.0,reporting,
+reporting:cl0p,CL0P,stated in reporting,reviewed,unit42:189023,1,CC0-1.0,reporting,
+reporting:cl0p,Hazy Scorpius,stated in reporting,reviewed,unit42:189023,1,CC0-1.0,reporting,
+reporting:cordialspider,CORDIAL SPIDER,stated in reporting,reviewed,okta:behind-the-scenes-of-a-vishing-operation,2,CC0-1.0,reporting,
+reporting:cordialspider,O-UNC-045,stated in reporting,reviewed,okta:behind-the-scenes-of-a-vishing-operation,2,CC0-1.0,reporting,
+reporting:inc,Inc,stated in reporting,reviewed,unit42:182026,1,CC0-1.0,reporting,
+reporting:inc,Tarnished Scorpius,stated in reporting,reviewed,unit42:182026,1,CC0-1.0,reporting,
+reporting:qilin,Qilin,stated in reporting,reviewed,unit42:189023|unit42:182026,3,CC0-1.0,reporting,
+reporting:qilin,Spikey Scorpius,stated in reporting,reviewed,unit42:189023|unit42:182026,2,CC0-1.0,reporting,
